@@ -1,0 +1,7 @@
+numpy
+pandas
+scikit-learn
+nltk
+streamlit
+plotly
+# Library yang digunakan untuk typing, random, re, json, datetime, time sudah tersedia di Python Standard Library (tidak perlu didaftarkan)
